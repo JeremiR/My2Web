@@ -64,6 +64,13 @@
     background: white;
   }
 
+
+
+
+
+
+
+  
   @import url('https://fonts.googleapis.com/css?family=Varela+Round');
 html, body {
     overflow-x: hidden;
@@ -356,6 +363,16 @@ input[type=checkbox]:checked ~ .sidebarIconToggle > .diagonal.part-2 {
     transform: rotate(-135deg);
     margin-top: -9px;
 }
+
+
+
+
+
+
+
+
+
+
 
 
 body {
