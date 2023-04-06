@@ -385,7 +385,7 @@ body {
   h1 {
     text-align: center;
     font-family: Tahoma, Arial, sans-serif;
-    color: #06D85F;
+    color: #0d6315;
     margin: 80px 0;
   }
   
@@ -403,7 +403,7 @@ body {
   .button {
     font-size: 1em;
     padding: 10px;
-    color: #fff;
+    color: #000000;
     border: 2px solid #06D85F;
     border-radius: 20px/50px;
     text-decoration: none;
@@ -411,7 +411,7 @@ body {
     transition: all 0.3s ease-out;
   }
   .button:hover {
-    background: #06D85F;
+    background: #19ff05;
   }
   
   .overlay {
@@ -442,7 +442,7 @@ body {
   
   .popup h2 {
     margin-top: 0;
-    color: #333;
+    color: #000000;
     font-family: Tahoma, Arial, sans-serif;
   }
   .popup .close {
@@ -453,7 +453,7 @@ body {
     font-size: 30px;
     font-weight: bold;
     text-decoration: none;
-    color: #333;
+    color: #ffffff;
   }
   .popup .close:hover {
     color: #06D85F;
